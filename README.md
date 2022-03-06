@@ -2,7 +2,7 @@
 ![](https://github.com/georsan/Soccer-Predictor/blob/main/Soccer-predictor.jpeg)
 
 ## Autores
-Alejendro Romero Serrano,Dubian Enrrique Palacios Rivera,Jorge Sandoval.
+Alejandro Romero Serrano,Dubian Enrrique Palacios Rivera,Jorge Sandoval.
 
 
 ## Objetivo
