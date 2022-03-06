@@ -1,24 +1,24 @@
 # Soccer-Predictor
 ![](https://github.com/georsan/Soccer-Predictor/blob/main/Soccer-predictor.jpeg)
 
-##Autores
+## Autores
 Alejendro Romero Serrano,Dubian Enrrique Palacios Rivera,Jorge Sandoval.
 
 
-##Objetivo
+## Objetivo
 Predecir el resultados de cada partido jugado en la premier league.
 
 
-##Dataset
+## Dataset
 [Dataset](https://www.kaggle.com/technika148/football-database)
 
 
-##Modelos
+## Modelos
 
--DecisionTreeRegressor
--SVC
+- DecisionTreeRegressor
+- SVC
 -
 -
 
-#Video
+# Video
 
