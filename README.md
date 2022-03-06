@@ -6,7 +6,7 @@ Alejandro Romero Serrano,Dubian Enrrique Palacios Rivera,Jorge Sandoval.
 
 
 ## Objetivo
-Predecir el resultados de cada partido jugado en la premier league.
+Predecir el resultados de cada partido que se jugara en la premier league.
 
 
 ## Dataset
