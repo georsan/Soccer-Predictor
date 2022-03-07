@@ -16,9 +16,9 @@ Predecir el resultados de cada partido que se jugara en la premier league.
 ## Modelos
 
 - DecisionTreeRegressor
-- SVC
--
--
+- SVR
+-Random Forest Regressor
+-DNN
 
 # Video
 
