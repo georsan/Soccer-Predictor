@@ -2,7 +2,7 @@
 ![](https://github.com/georsan/Soccer-Predictor/blob/main/Soccer-predictor.jpeg)
 
 ## Autores
-Alejandro Romero Serrano,Dubian Enrrique Palacios Rivera,Jorge Sandoval.
+Alejandro Romero Serrano,Dubian Enrique Palacios Rivera,Jorge Sandoval.
 
 
 ## Objetivo
@@ -21,4 +21,4 @@ Predecir el resultados de cada partido que se jugara en la premier league.
 - DNN
 
 # Video
-
+[Video](https://www.youtube.com/watch?v=yKT4MKwaUEE)
