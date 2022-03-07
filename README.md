@@ -17,9 +17,8 @@ Predecir el resultados de cada partido que se jugara en la premier league.
 
 - DecisionTreeRegressor
 - SVR
--Random Forest Regressor
-
--DNN
+- Random Forest Regressor
+- DNN
 
 # Video
 
